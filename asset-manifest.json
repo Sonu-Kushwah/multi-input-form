@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/multi-input-form/static/css/main.7ce15800.css",
+    "main.js": "/multi-input-form/static/js/main.90356c55.js",
+    "static/js/787.aeb39de0.chunk.js": "/multi-input-form/static/js/787.aeb39de0.chunk.js",
+    "index.html": "/multi-input-form/index.html",
+    "main.7ce15800.css.map": "/multi-input-form/static/css/main.7ce15800.css.map",
+    "main.90356c55.js.map": "/multi-input-form/static/js/main.90356c55.js.map",
+    "787.aeb39de0.chunk.js.map": "/multi-input-form/static/js/787.aeb39de0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7ce15800.css",
+    "static/js/main.90356c55.js"
+  ]
+}
